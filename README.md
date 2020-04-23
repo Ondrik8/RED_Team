@@ -1,4 +1,4 @@
-## Red_Team
+
 
 
 <center><p><img src="https://redcanary.com/wp-content/uploads/Atomic-Red-Team-Logo.png" width="250px" /></p>
