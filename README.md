@@ -8,6 +8,5 @@
 
 
 <div align="center">
-  <sub>RedTeam_windows
-  <a href="https://mitre-attack.github.io/attack-navigator/enterprise/">contributors</a>
+  <a href="https://mitre-attack.github.io/attack-navigator/enterprise/">RedTeam_windows</a>
 </div>
